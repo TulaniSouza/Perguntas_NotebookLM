@@ -122,6 +122,16 @@ Sinergia entre as abordagens
 Embora possuam focos opostos, as duas estratégias são frequentemente utilizadas de forma complementar pela maioria dos analistas e gestores para calcular o valor justo de uma empresa 1, 2. A análise setorial funciona como o elo de conexão entre as duas visões, permitindo entender como a sensibilidade macroeconômica impacta a estratégia específica da companhia 10. Além disso, a moderna integração ASG (Ambiental, Social e Governança) utiliza a abordagem Top Down para entender como temas macro, como mudanças climáticas, afetam o crescimento e a estratégia das empresas individuais 11, 12.
   
 </details>
+
+---
+## 📂 Materiais Complementares
+Aqui você encontra os arquivos brutos gerados durante a curadoria:
+
+* 🖼️ [Visualizar Mapa Mental de Conexões](./Mapa-mental.png)
+* 📊 [Baixar Glossário Completo (60 termos)](./glossario-detalhado.csv)
+* 💻 [Apresentação de Slides (Resumo Executivo)](./Apresentacao.pptx)
+* 📄 [Transcrição Base (PDF)](./Como-crises-e-psicologia-moldaram-os-investimentos.pdf)
+  
 ## 🤖 Prompts Utilizados no NotebookLM
 1. *"Crie um glossário com os 10 termos técnicos mais importantes com base nas fontes."*
 2. *"Explique as lições da crise de 1929 para um investidor iniciante.
