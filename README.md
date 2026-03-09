@@ -4,9 +4,9 @@ Este repositório contém um guia de estudos desenvolvido no **NotebookLM** como
 humano e as crises históricas moldaram o mercado financeiro.
 
 ## 🎯 Objetivos de Estudo
-* Compreender a transição entre as análises técnica e fundamentalista[cite: 1].
-* Analisar o impacto de bolhas históricas (Tumania, 1929, 2008) na regulação atual[cite: 1].
-* Explorar a importância dos critérios ASG (Ambiental, Social e Governança) no cenário moderno[cite: 1].
+* Compreender a transição entre as análises técnica e fundamentalista.
+* Analisar o impacto de bolhas históricas (Tumania, 1929, 2008) na regulação atual.
+* Explorar a importância dos critérios ASG (Ambiental, Social e Governança) no cenário moderno.
 
 ## 📝 Resumo Estruturado
 O material explora como o mercado é um "espelho do comportamento humano", guiado por medo e ganância. 
@@ -130,7 +130,7 @@ Aqui você encontra os arquivos brutos gerados durante a curadoria:
 * 🖼️ [Visualizar Mapa Mental de Conexões](./Mapa-mental.png)
 * 📊 [Baixar Glossário Completo (60 termos)](./glossario-detalhado.csv)
 * 💻 [Apresentação de Slides (Resumo Executivo)](./Apresentacao.pptx)
-* 📄 [Transcrição Base (PDF)](./Como-crises-e-psicologia-moldaram-os-investimentos.pdf)
+* 📄 [Transcrição Base (PDF)](./Transcricao.pdf)
   
 ## 🤖 Prompts Utilizados no NotebookLM
 1. *"Crie um glossário com os 10 termos técnicos mais importantes com base nas fontes."*
